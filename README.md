@@ -1,6 +1,6 @@
 # Hello Page
 
-<img src="Makarand_intro.png" width="200">
+<img src="Makarand_intro.png" width="600">
 
 ## Create your own
 
